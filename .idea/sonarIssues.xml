@@ -78,6 +78,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/notesapp/feaure_note/domain/use_case/GetNote.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/notesapp/feaure_note/domain/use_case/GetNotes.kt">
           <value>
             <set />
@@ -103,7 +108,62 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/notesapp/feaure_note/presentation/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/notesapp/feaure_note/presentation/add_edit_note/AddEditNoteEvent.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/notesapp/feaure_note/presentation/add_edit_note/AddEditNoteScreen.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/notesapp/feaure_note/presentation/add_edit_note/AddEditNoteViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/notesapp/feaure_note/presentation/add_edit_note/NoteTextFieldState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/notesapp/feaure_note/presentation/add_edit_note/components/AddEditNoteEvent.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/notesapp/feaure_note/presentation/add_edit_note/components/AddEditNoteScreen.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/notesapp/feaure_note/presentation/add_edit_note/components/AddEditNoteViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/notesapp/feaure_note/presentation/add_edit_note/components/NoteTextFieldState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/notesapp/feaure_note/presentation/add_edit_note/components/TransparentHintTextField.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/notesapp/feaure_note/presentation/notes/NotesEvent.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/notesapp/feaure_note/presentation/notes/NotesScreen.kt">
           <value>
             <set />
           </value>
@@ -114,6 +174,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/notesapp/feaure_note/presentation/notes/NotesViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/notesapp/feaure_note/presentation/notes/components/DefaultRadioButton.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/notesapp/feaure_note/presentation/notes/components/NoteItem.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/notesapp/feaure_note/presentation/notes/components/OrderSection.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/notesapp/feaure_note/presentation/util/Screen.kt">
           <value>
             <set />
           </value>
